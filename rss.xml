@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Alexandertechnique]]></title>
         <description><![CDATA[Alexandertechnique]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexandertechnique/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 19:46:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 19:46:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexandertechnique/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Martin Michiels]]></title>
+            <description><![CDATA[<article><h1>Martin Michiels</h1><p>Une guitare à la main depuis l’âge de 6 ans, j’aime expérimenter des univers musicaux variés comme le jazz, le blues, le rock, la pop et la musique classique. Je joue sur scène depuis mes 21 ans dans plusieurs groupes, j’ai aussi réalisé des maquettes et des arrangements pour des chanteurs. Après plusieurs années d’études supérieures en guitare, j’ai suivi une formation pédagogique de musicien intervenant en ateliers auprès de Sarah Goldfarb (ReMuA). C’est avec passion que je partage mon amour pour la musique lorsque j’anime des ateliers et des cours particuliers.</p></article>]]></description>
+            <link>https://thegrid.ai/alexandertechnique/9581dc88-ac4a-4fea-90e3-5d3d69200ef6/index.html</link>
+            <guid isPermaLink="false">9581dc88-ac4a-4fea-90e3-5d3d69200ef6</guid>
+            <pubDate>Wed, 16 Dec 2015 19:46:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TECHNIQUE ALEXANDER]]></title>
             <description><![CDATA[<article><h1>TECHNIQUE ALEXANDER</h1><p>La Technique Alexander est une méthode d’éducation raisonnée qui s’appuie sur l’observation globale de la façon de s’utiliser. Elle fut créée et enseignée par</p></article>]]></description>
-            <link>undefinedtechnique-alexander/index.html</link>
+            <link>https://thegrid.ai/alexandertechnique/technique-alexander/index.html</link>
             <guid isPermaLink="false">d4dee4bc-75c0-4b86-93bf-bf350ffa6043</guid>
             <pubDate>Wed, 16 Dec 2015 19:46:04 GMT</pubDate>
         </item>
