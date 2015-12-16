@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alexandertechnique]]></title>
+        <description><![CDATA[Alexandertechnique]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 19:46:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TECHNIQUE ALEXANDER]]></title>
+            <description><![CDATA[<article><h1>TECHNIQUE ALEXANDER</h1><p>La Technique Alexander est une méthode d’éducation raisonnée qui s’appuie sur l’observation globale de la façon de s’utiliser. Elle fut créée et enseignée par</p></article>]]></description>
+            <link>undefinedtechnique-alexander/index.html</link>
+            <guid isPermaLink="false">d4dee4bc-75c0-4b86-93bf-bf350ffa6043</guid>
+            <pubDate>Wed, 16 Dec 2015 19:46:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
