@@ -1,7 +1,7 @@
 name: Alexandertechnique
 favicon: null
-layout_spectrum: 0.7904994105920196
-typography_spectrum: 0.8840309760998935
+layout_spectrum: 0.87675
+typography_spectrum: 0.47231
 title: Technique Alexander à Bruxelles - Martin Michiels
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8803017921745777
+  brandStrength: 0.6875
   lightness: 0.8733611789066344
   saturation: 0.007475039456039667
   rhythmicContrast: 0.5883911431301385
