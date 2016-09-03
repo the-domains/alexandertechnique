@@ -1,20 +1,4 @@
-name: Alexandertechnique
-favicon: null
-layout_spectrum: 0.87675
 typography_spectrum: 0.47231
-title: Technique Alexander à Bruxelles - Martin Michiels
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.8733611789066344
   saturation: 0.007475039456039667
   rhythmicContrast: 0.5883911431301385
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87675
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Alexandertechnique
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: TECHNIQUE ALEXANDER
+    id: d4dee4bc-75c0-4b86-93bf-bf350ffa6043
+    type: content
+favicon: null
+title: Technique Alexander à Bruxelles - Martin Michiels
 purpose: []
