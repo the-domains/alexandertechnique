@@ -31,6 +31,9 @@ navigation:
   - name: À PROPOS
     id: 1b5f9d13-6956-4d4a-a271-a2f9bc9a06b6
     type: content
+  - name: POUR QUI ?
+    id: 027f8123-27a1-48af-96c3-2647942c727d
+    type: content
 favicon: null
 title: Technique Alexander à Bruxelles - Martin Michiels
 purpose: []
