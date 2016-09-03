@@ -19,7 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Alexandertechnique
+author:
+  name: Martin Michiels
+  email: martin.michiels@gmail.com
+  url: 'http://www.martinmichiels.be'
+name: Technique Alexander
 cta:
   domain: null
   bucket: null
