@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T19:13:12.481Z'
+datePublished: '2016-08-31T19:38:34.109Z'
 sourcePath: _posts/2015-12-16-technique-alexander.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-08-31T19:13:11.919Z'
+dateModified: '2016-08-31T19:29:54.980Z'
 title: TECHNIQUE ALEXANDER
 publisher: {}
 description: >-
